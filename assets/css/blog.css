@@ -53,8 +53,10 @@ main {
   align-items: center;
 }
 #img-wrapper img {
+  display: block;
+  margin: auto;
   border-radius: 50%;
-  max-width: 200px;
+  max-width: 300px;
 }
 #bio-wrapper {
   margin-left: 1rem;
